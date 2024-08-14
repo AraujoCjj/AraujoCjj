@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 - Estou estudando na [Alura](https://www.alura.com.br).
 - Você pode entrar em contato comigo 👉 @araujo_cjj
+
+
+
+![agahta a mais mais de cascavel piaui](https://github.com/user-attachments/assets/046bab5f-c9df-46be-b2fb-78d42cecb8b4)
