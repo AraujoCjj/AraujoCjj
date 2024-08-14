@@ -1,10 +1,10 @@
 ## Bem vindos😃
-
+Meu nome é Vitor Aráujo
 <!--
 **AraujoCjj/AraujoCjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-  
 Here are some ideas to get you started:
-
+-
 - 🔭 I’m currenty working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Estou estudando na [Alura](https://www.alura.com.br).
