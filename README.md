@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Estou estudando na [Alura](https://www.alura.com.br).
+- Você pode entrar em contato comigo 👉 @araujo_cjj
